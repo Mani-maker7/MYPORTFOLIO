@@ -16,8 +16,8 @@ const Skills = () => {
       skills: ["PostgreSQL", "MySQL", "MongoDB"]
     },
     {
-      title: "Other Skills",
-      skills: ["Microsoft Excel", "PowerPoint", "Tableau", "Notion"]
+      title: "Cloud and DevOps",
+      skills: ["Amazon Web Services (AWS)", "Docker (basic)"]
     }
   ];
 

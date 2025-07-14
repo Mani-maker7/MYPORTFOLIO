@@ -16,7 +16,7 @@ const About = () => {
     },
     {
       icon: <Cloud className="w-8 h-8 text-primary" />,
-      title: "Cloud Enthusiast",
+      title: "Cloud Computing",
       description: "Passionate about cloud technologies and scalable infrastructure"
     },
     {
