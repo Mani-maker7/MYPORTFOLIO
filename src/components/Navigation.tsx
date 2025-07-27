@@ -43,9 +43,9 @@ const Navigation = () => {
 
   const handleResumeDownload = () => {
     // Replace with actual resume URL
-    const resumeUrl = '#'; // Add actual resume link here
+    const resumeUrl = 'https://drive.google.com/file/d/1VfNtuTG00whT0J9g03HxDXC3DzSEYXYj/view?usp=sharing'; // Add actual resume link here
     console.log('Downloading resume...');
-    // window.open(resumeUrl, '_blank');
+    window.open(resumeUrl, '_blank');
   };
 
   return (
